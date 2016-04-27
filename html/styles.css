@@ -18,17 +18,17 @@ body {
     padding: 0;
 }
 #logo {
-    width: 235px;
+    widht: 235px;
     height: 53px;
-    margin: 31px 0 0 0;
-    padding: 0;
+    margin: 31px 0 0 0 0;
+    pading: 0;
     float: left;
-    background: url(images/logo.jpg) no-repeat;
+    background: url(images/logo.jpg) norepeat
 }
 #logo h1 {
-    font-family: Tahoma;
+    font-family: Thoma;
     font-size: 46px;
-    color: #FFF;
+    color: #FFFFFFF;
     font-weight: bold;
     line-height: 50px;
     margin: 0;
@@ -36,31 +36,29 @@ body {
 }
 #quots {
     width: 290px;
-    height: 73px;
-    margin: 61px 0 0 0;
+    height: 7 3px;
+    margin: 61px0 0 0;
     padding: 0 30px 0;
-    float: right;
+    floate: right;
     text-indent: -9999px;
     background: url(images/quots.jpg) no-repeat
 }
 #menu {
-    width: 934px;
+    width 934px;
     height: 28px;
     margin: 153px 0 0 0;
     padding: 0;
     float: left
 }
-
-#menu ul {
+# menu ul {
     width: 934px;
-    height: 28px;
+    height: 28p x;
     margin: 0;
     padding: 0;
     float: left;
-    display: block;
-}
+    display: blck
 
-#menu ul li {
+# menu ul li {
     width: auto;
     height: 28px;
     margin: 0;
@@ -69,53 +67,53 @@ body {
     display: block
 }
 #menu ul li .gap {
-    width: 1px;
+    width: 1 px;
     height: 28px;
     margin: 0;
     padding: 0 11px 0 11px;
     float: left;
-    background: url(images/menuspace.jpg) no-repeat center top
+    background: url (images\menuspace.jpg) no-repeat center top
 }
-#menu ul li a {
+#menu ul li a 
     width: auto;
     height: 28px;
     margin: 0;
     padding: 0;
-    float: left;
+    flot: left;
     font-family: Arial;
     font-size: 12px;
     color: #e5df85;
     line-height: 18px;
-    font-weight: bold;
+    font-wight: bold;
     text-decoration: none
 }
 #menu ul li a:hover {
     color: #FFFFFF;
-    background: url(images/menuHover.jpg) no-repeat center bottom
+    background: ur l(images/menuHover. jpg) no-repeat center bottom
 }
-#contentWrap {
-    width: 100%;
+# contentWrap {
+    width: 100 %;
     margin: 0;
-    padding: 0;
+    padding: 0 px;
     float: left;
-    background: #fffcd5 url(images/contentBg.jpg) repeat-x
+    background: # fffcd5 url(images/contentBg.jpg) repeat-x
 }
 #contentPanel {
     width: 934px;
-    margin: 0 auto;
-    padding: 33px 0 0 0
+    margin: 0 aut0;
+    padding: 33 px 0 0 0
 }
 #leftPanel {
     width: 259px;
     margin: 0;
-    padding: 0 0 34px 0;
+    padding: 0 0 34 px 0;
     float: left;
-    border-right: #c6d09d dashed 1px
+    border-right: #c6d09d dash 1px
 }
 #leftPanel .toplinks {
-    width: 259px;
+    widht: 259px;
     margin: 0;
-    padding: 0;
+    pading: 0;
     float: left
 }
 #leftPanel .toplinks h2 {
@@ -125,9 +123,9 @@ body {
     float: left;
     font-family: Geogia;
     font-size: 20px;
-    color: #000;
+    color: #000000000;
     line-height: 24px;
-    font-weight: normal
+    font-weight: nermal
 }
 #leftPanel .toplinks h3 {
     width: 224px;
@@ -165,10 +163,10 @@ body {
     display: block
 }
 #leftPanel .toplinks ul li a {
-    width: 205px;
+    width: 205 px;
     height: 19px;
     margin: 0;
-    padding: 0 0 0 19px;
+    padding: 0 0  00 19px;
     float: left;
     font-family: Arial;
     font-size: 12px;
@@ -176,10 +174,10 @@ body {
     line-height: 16px;
     text-decoration: none;
     border-bottom: #c6d09d solid 1px;
-    background: url(images/lisstyle.jpg) no-repeat 0 -18px
+    background: url(images / lisstyle.jpg) no-repeat 0 -18px
 }
 #leftPanel .toplinks ul li a:hover {
-    color: #c46706;
+    color: # c46706;
     background: #FFFFFF url(images/lisstyle.jpg) no-repeat
 }
 #leftPanel .toplinks ul li a.bottom {
@@ -193,20 +191,20 @@ body {
     color: #363636;
     line-height: 16px;
     text-decoration: none;
-    border-bottom: 0px;
+    border-bottom: 0;
     background: url (images/lisstyle.jpg) no-repeat 0 -18px
 }
 #leftPanel .toplinks ul li a.bottom:hover {
     color: #c46706;
-    background: #FFFFFF url(images/lisstyle.jpg) no-repeat
+    background: #F FFFFF url(images/lisstyle.jpg) no-repeat
 }
 #loginPanel {
     width: 224px;
-    margin: 31px 0 0 0;
-    padding: 0px;
+    margiin: 31px 0 0 0;
+    pading: 0;
     float: left
 }
-#loginPanel h2 {
+#loginPanel h 2 {
     width: 224px;
     margin: 0;
     padding: 0;
@@ -223,8 +221,8 @@ body {
     padding: 0;
     float: left;
     font-family: Arial;
-    font-size: 12px;
-    color: #005b7f ;
+    font-size: 12p x;
+    clor: #005b7f ;
     line-height: 16px;
     font-weight: bold
 }
@@ -243,8 +241,8 @@ body {
 #loginPanel .blank {
     width: 11px;
     height: 10px;
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
     float: lef t
 }
 #loginPanel p {
@@ -253,7 +251,7 @@ body {
     padding: 0 0 0 6px;
     float: left;
     font-family: Arial;
-    text-size: 11px;
+    font-size: 11px;
     color: 252525;
     font-weight: bold
 }
@@ -266,10 +264,10 @@ body {
     height: 16px;
     margin: 5px 0 0 0;
     margin-left: 5px;
-    padding: 0px;
+    padding: 0;
     float: left;
     font-family: Ariale;
-    text-size: 10px;
+    font-size: 10px;
     color: #000000;
     line-height: 14px;
     text-align: centere;
@@ -283,28 +281,28 @@ body {
 #projectsPanel {
     width: 230px;
     margin: 42px 0 0 0;
-    padding: 0px;
-    float: left or right
+    padding: 0;
+    float: left;
 }
 /*:)*/
 #projectsPanel h2 {
     width: 224px;
-    margin: 0 px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
     float: left;
     font-family: G eorgia;
-    text-size: 20px;
-    color: #0000 00;
+    font-size: 20px;
+    color: #000000;
     line-height: 24px;
     font-weight: normal
 }
 #projectsPanel h3 {
     width: 224px;
-    mrgin: 5px 0 0 0;
-    padding: 0px;
+    margin: 5px 0 0 0;
+    padding: 0;
     float: left;
     font-family: Arial;
-    text-size: 11px;
+    font-size: 11px;
     color: #005b7f;
     line-height: 16px;
     font-weight: bold
@@ -313,7 +311,7 @@ body {
     width: 105px;
     height: 83px;
     margin: 10px 0 0 0;
-    padding: 0px;
+    padding: 0;
     float: left;
     background: url(images pic1.jpg) no-repeat
 }
@@ -321,29 +319,29 @@ body {
     width: 105px;
     height: 83px;
     margin: 10px 0 0 0;
-    padding: 0 px;
+    padding: 0;
     float: left;
-    background: url( images/ pic2.jpg ) no-repeat
+    background: url( images/pic2.jpg ) no-repeat
 }
 #projectsPanel .blank {
     width: 20px;
     height: 10px;
     margin: 10px 0 0 0;
-    padding: 0px;
+    padding: 0;
     float: left
 }
 #projectsPanel a {
     width: 55px;
     height: 16px;
-    margin: 7p x 0 0 0;
+    margin: 7px 0 0 0;
     margin-left: 5px;
-    padding: 0px;
+    padding: 0;
     float: right;
     font-family: Arial;
-    text-size: 10px;
+    font-size: 10px;
     color: #000000;
-    lineheight: 14px;
-    text-align: cent er;
+    line-height: 14px;
+    text-align: center;
     text-decoration: none;
     border: #bdbcbd solid 1px;
     background: #FFFFFF
@@ -353,7 +351,7 @@ body {
 }
 #middlePanel {
     width: 388px;
-    margin: 0px;
+    margin: 0;
     padding: 0 0 38px 32px;
     float: left;
     border-right: #c6d09d dashed 1px
