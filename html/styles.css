@@ -5,7 +5,7 @@ body {
 }
 #headWrap {
     width: 100%;
-    height: 315 px;
+    height: 315px;
     margin: 0;
     padding: 0;
     float: left;
@@ -651,80 +651,79 @@ body {
     padding: 3px 0 0 9px;
     float: left
     font-family: Arial;
-    text-size: 10px;
+    font-size: 10px;
     color: #363636;
-    border: 0px;
+    border: 0;
     background: #f3efc0
 }
 #rigtPanel .contacts a {
     width: 55px;
     height: 16px;
-    margin: 10px 0 0 0;
-    margin-left: 5px;
-    padding: 0px;
+    margin: 10px 0 0 5px;
+    padding: 0;
     float: left;
-    font-family: Arial
-    text-size: 10px;
+    font-family: Arial;
+    font-size: 10px;
     color: #000000;
     line-height: 14px;
     text-align: center;
     text-decoration: none;
-    border: #bdbc bd solid 1px;
-    background: # FFFFFF
+    border: #bdbcbd solid 1px;
+    background: #FFFFFF
 }
 #rigtPanel .contacts a:hover {
     background: #cccccc
 }
 #footWrap {
     width: 100%;
-    margin: 0px;
+    margin: 0;
     padding: 0 0 26px 0;
     float: left
 }
 #footPanel {
     width: 934px;
     margin: 0 auto;
-    padding: 0px
+    padding: 0
 }
 #footNav {
     width: 934px;
     margin: 20px 0 0 0;
-    padding: 0px;
+    padding: 0;
     float: left
 }
 #footNav ul {
     width: 558px;
     margin: 0 auto;
-    padding: 0px;
+    padding: 0;
     display: block
 }
 #footNav ul li {
     width: auto;
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
     float: left;
     display: block
 }
 #footNav ul li .blank {
     width: auto;
     margin: 3px 0 0 0;
-    padding: 0 10 px 0 10 px;
+    padding: 0 10px 0 10px;
     float: left;
     font-family: Arial;
-    text-size: 12px;
+    font-size: 12px;
     color: #e5df85;
     line-height: 16px;
     font-weight: bold
 }
 #footNav ul li a {
     font-family: Arial;
-    text-size: 12px;
+    font-size: 12px;
     color: #e5df85;
     line-height: 16px;
     font-weight: bold;
     text-decoration: none;
-    margin: 0px;
-    padding: 0px
+    margin: 0;
+    padding: 0;
 }
 #footNav ul li a:hover {
     text-decoration: underline
@@ -732,10 +731,10 @@ body {
 #footPanel p {
     width: 934px;
     margin: 12px 0 0 0;
-    padding: 0px;
+    padding: 0;
     float: left;
     font-family: Arial;
-    text-size: 11px;
+    font-size: 11px;
     color: #fffcd5;
     line-height: 15px;
     font-weight: bold;
@@ -749,43 +748,43 @@ body {
     text-decoration: underline
 }
 #validation {
-    width: 93 4px;
+    width: 934px;
     margin: 10px 0 0 0;
-    padding: 0px;
+    padding: 0;
     float: left
 }
 #validation ul {
     width: 143px;
     margin: 0 auto;
-    padding: 0px;
+    padding: 0;
     display: block
 }
 #validation ul li {
     width: auto;
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
     float: left;
     display: block
 }
 #validation ul li .blank {
     width: 7px;
     height: 10px;
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
     float: left
 }
 #validation ul li a {
     width: 64px;
     height: 23px;
-    margin: 0px;
+    margin: 0;
     padding: 0 3px 0 0;
     float: left;
-    font-family: Arial;
-    text-size: 11px;
+    font-family: "Arial";
+    font-size: 11px;
     color: #100703;
     font-weight: bold;
     line-height: 23px;
     text-align: center;
     text-decoration: none;
-    background: url(images validationBg.jpg) no-repeat
+    background: url('images/validationBg.jpg') no-repeat;
 }
