@@ -18,17 +18,17 @@ body {
     padding: 0;
 }
 #logo {
-    widht: 235px;
+    width: 235px;
     height: 53px;
-    margin: 31px 0 0 0 0;
-    pading: 0;
+    margin: 31px 0 0 0;
+    padding: 0;
     float: left;
-    background: url(images/logo.jpg) norepeat
+    background: url(images/logo.jpg) no-repeat;
 }
 #logo h1 {
-    font-family: Thoma;
+    font-family: Tahoma;
     font-size: 46px;
-    color: #FFFFFFF;
+    color: #FFF;
     font-weight: bold;
     line-height: 50px;
     margin: 0;
@@ -36,29 +36,31 @@ body {
 }
 #quots {
     width: 290px;
-    height: 7 3px;
-    margin: 61px0 0 0;
+    height: 73px;
+    margin: 61px 0 0 0;
     padding: 0 30px 0;
-    floate: right;
+    float: right;
     text-indent: -9999px;
     background: url(images/quots.jpg) no-repeat
 }
 #menu {
-    width 934px;
+    width: 934px;
     height: 28px;
     margin: 153px 0 0 0;
     padding: 0;
     float: left
 }
-# menu ul {
+
+#menu ul {
     width: 934px;
-    height: 28p x;
+    height: 28px;
     margin: 0;
     padding: 0;
     float: left;
-    display: blck
+    display: block;
+}
 
-# menu ul li {
+#menu ul li {
     width: auto;
     height: 28px;
     margin: 0;
@@ -67,53 +69,53 @@ body {
     display: block
 }
 #menu ul li .gap {
-    width: 1 px;
+    width: 1px;
     height: 28px;
     margin: 0;
     padding: 0 11px 0 11px;
     float: left;
-    background: url (images\menuspace.jpg) no-repeat center top
+    background: url(images/menuspace.jpg) no-repeat center top
 }
-#menu ul li a 
+#menu ul li a {
     width: auto;
     height: 28px;
     margin: 0;
     padding: 0;
-    flot: left;
+    float: left;
     font-family: Arial;
     font-size: 12px;
     color: #e5df85;
     line-height: 18px;
-    font-wight: bold;
+    font-weight: bold;
     text-decoration: none
 }
 #menu ul li a:hover {
     color: #FFFFFF;
-    background: ur l(images/menuHover. jpg) no-repeat center bottom
+    background: url(images/menuHover.jpg) no-repeat center bottom
 }
-# contentWrap {
-    width: 100 %;
+#contentWrap {
+    width: 100%;
     margin: 0;
-    padding: 0 px;
+    padding: 0;
     float: left;
-    background: # fffcd5 url(images/contentBg.jpg) repeat-x
+    background: #fffcd5 url(images/contentBg.jpg) repeat-x
 }
 #contentPanel {
     width: 934px;
-    margin: 0 aut0;
-    padding: 33 px 0 0 0
+    margin: 0 auto;
+    padding: 33px 0 0 0
 }
 #leftPanel {
     width: 259px;
     margin: 0;
-    padding: 0 0 34 px 0;
+    padding: 0 0 34px 0;
     float: left;
-    border-right: #c6d09d dash 1px
+    border-right: #c6d09d dashed 1px
 }
 #leftPanel .toplinks {
-    widht: 259px;
+    width: 259px;
     margin: 0;
-    pading: 0;
+    padding: 0;
     float: left
 }
 #leftPanel .toplinks h2 {
@@ -123,9 +125,9 @@ body {
     float: left;
     font-family: Geogia;
     font-size: 20px;
-    color: #000000000;
+    color: #000;
     line-height: 24px;
-    font-weight: nermal
+    font-weight: normal
 }
 #leftPanel .toplinks h3 {
     width: 224px;
@@ -163,10 +165,10 @@ body {
     display: block
 }
 #leftPanel .toplinks ul li a {
-    width: 205 px;
+    width: 205px;
     height: 19px;
     margin: 0;
-    padding: 0 0  00 19px;
+    padding: 0 0 0 19px;
     float: left;
     font-family: Arial;
     font-size: 12px;
@@ -174,10 +176,10 @@ body {
     line-height: 16px;
     text-decoration: none;
     border-bottom: #c6d09d solid 1px;
-    background: url(images / lisstyle.jpg) no-repeat 0 -18px
+    background: url(images/lisstyle.jpg) no-repeat 0 -18px
 }
 #leftPanel .toplinks ul li a:hover {
-    color: # c46706;
+    color: #c46706;
     background: #FFFFFF url(images/lisstyle.jpg) no-repeat
 }
 #leftPanel .toplinks ul li a.bottom {
@@ -191,20 +193,20 @@ body {
     color: #363636;
     line-height: 16px;
     text-decoration: none;
-    border-bottom: 0;
+    border-bottom: 0px;
     background: url (images/lisstyle.jpg) no-repeat 0 -18px
 }
 #leftPanel .toplinks ul li a.bottom:hover {
     color: #c46706;
-    background: #F FFFFF url(images/lisstyle.jpg) no-repeat
+    background: #FFFFFF url(images/lisstyle.jpg) no-repeat
 }
 #loginPanel {
     width: 224px;
-    margiin: 31px 0 0 0;
-    pading: 0;
+    margin: 31px 0 0 0;
+    padding: 0px;
     float: left
 }
-#loginPanel h 2 {
+#loginPanel h2 {
     width: 224px;
     margin: 0;
     padding: 0;
@@ -221,8 +223,8 @@ body {
     padding: 0;
     float: left;
     font-family: Arial;
-    font-size: 12p x;
-    clor: #005b7f ;
+    font-size: 12px;
+    color: #005b7f ;
     line-height: 16px;
     font-weight: bold
 }
@@ -243,16 +245,16 @@ body {
     height: 10px;
     margin: 0;
     padding: 0;
-    float: lef t
+    float: left
 }
 #loginPanel p {
-    width: 21 8px;
+    width: 218px;
     margin: 9px 0 0 0;
     padding: 0 0 0 6px;
     float: left;
     font-family: Arial;
     font-size: 11px;
-    color: 252525;
+    color: #252525;
     font-weight: bold
 }
 #loginPanel p a {
@@ -270,8 +272,8 @@ body {
     font-size: 10px;
     color: #000000;
     line-height: 14px;
-    text-align: centere;
-    text-decoration: noone;
+    text-align: center;
+    text-decoration: none;
     border: #bdbcbd solid 1px;
     background: #FFFFFF
 }
@@ -282,27 +284,27 @@ body {
     width: 230px;
     margin: 42px 0 0 0;
     padding: 0;
-    float: left;
+    float: left or right
 }
 /*:)*/
 #projectsPanel h2 {
     width: 224px;
-    margin: 0;
-    padding: 0;
+    margin: 0 px;
+    padding: 0px;
     float: left;
     font-family: G eorgia;
-    font-size: 20px;
-    color: #000000;
+    text-size: 20px;
+    color: #0000 00;
     line-height: 24px;
     font-weight: normal
 }
 #projectsPanel h3 {
     width: 224px;
-    margin: 5px 0 0 0;
-    padding: 0;
+    mrgin: 5px 0 0 0;
+    padding: 0px;
     float: left;
     font-family: Arial;
-    font-size: 11px;
+    text-size: 11px;
     color: #005b7f;
     line-height: 16px;
     font-weight: bold
@@ -311,7 +313,7 @@ body {
     width: 105px;
     height: 83px;
     margin: 10px 0 0 0;
-    padding: 0;
+    padding: 0px;
     float: left;
     background: url(images pic1.jpg) no-repeat
 }
@@ -319,29 +321,29 @@ body {
     width: 105px;
     height: 83px;
     margin: 10px 0 0 0;
-    padding: 0;
+    padding: 0 px;
     float: left;
-    background: url( images/pic2.jpg ) no-repeat
+    background: url( images/ pic2.jpg ) no-repeat
 }
 #projectsPanel .blank {
     width: 20px;
     height: 10px;
     margin: 10px 0 0 0;
-    padding: 0;
+    padding: 0px;
     float: left
 }
 #projectsPanel a {
     width: 55px;
     height: 16px;
-    margin: 7px 0 0 0;
+    margin: 7p x 0 0 0;
     margin-left: 5px;
-    padding: 0;
+    padding: 0px;
     float: right;
     font-family: Arial;
-    font-size: 10px;
+    text-size: 10px;
     color: #000000;
-    line-height: 14px;
-    text-align: center;
+    lineheight: 14px;
+    text-align: cent er;
     text-decoration: none;
     border: #bdbcbd solid 1px;
     background: #FFFFFF
@@ -351,35 +353,35 @@ body {
 }
 #middlePanel {
     width: 388px;
-    margin: 0;
+    margin: 0px;
     padding: 0 0 38px 32px;
     float: left;
     border-right: #c6d09d dashed 1px
 }
 #middlePanel .top {
     width: 350px;
-    margin: 0;
+    margin: 0px;
     padding: 0 0 0 3px;
     float: left
 }
 #middlePanel .top h2 {
     width: 350px;
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
     float: left;
     font-family: Georgia;
-    font-size: 28px;
+    text-size: 28px;
     color: #000000;
     line-height: 32px;
     font-weight: normal
 }
 #middlePanel .top h3 {
     width: 350px;
-    margin: 9px 0 0 0;
-    padding: 0;
+    margn: 9px 0 0 0;
+    padding: 0px;
     float: left;
     font-family: Arial;
-    font-size: 12px;
+    text-size: 12px;
     color: #005b7f;
     line-height: 16px;
     font-weight: bold
@@ -387,10 +389,10 @@ body {
 #middlePanel .top p {
     width: 350px;
     margin: 16px 0 0 0;
-    padding: 0;
+    paddig: 0px;
     float: left;
     font-family: Arial;
-    font-size: 12px;
+    text-size: 12px;
     color: #363636;
     line-height: 16px
 }
@@ -401,11 +403,11 @@ body {
 #middlePanel .top a {
     width: 75px;
     height: 16px;
-    margin: 10px 0 0 0;
-    padding: 0;
+    marin: 10px 0 0 0;
+    padding: 0px;
     float: left;
     font-family: Arial;
-    font-size: 10px;
+    text-size: 10px;
     color: #000000;
     line-height: 14px;
     text-align: center;
@@ -419,16 +421,16 @@ body {
 #middlePanel .bottom {
     width: 358px;
     margin: 32px 0 0 0;
-    padding: 0;
+    padding: 0px;
     float: left
 }
 #middlePanel .bottom h2 {
     width: 350px;
-    margin: 0;
+    margin: 0px;
     padding: 0 0 0 3px;
     float: left;
     font-family: Georgia;
-    font-size: 25px;
+    text-size: 25px;
     color: #000000;
     line-height: 29px;
     font-weight: normal
@@ -439,7 +441,7 @@ body {
     padding: 0 0 0 3px;
     float: left;
     font-family: Arial;
-    font-size: 12px;
+    text-size: 12px;
     color: #005b7f;
     line-height: 16px;
     font-weight: bold
@@ -447,37 +449,37 @@ body {
 #middlePanel .bottom .pic3 {
     width: 358px;
     height: 109px;
-    margin: 19px 0 0 0;
-    padding: 0;
+    margin: 19 px 0 0 0;
+    padding: 0px;
     float: left;
     background:  (images/pic3.jpg) no-repeat
 }
 #middlePanel .bottom ul {
     width: 349px;
     margin: 16px 0 0 0;
-    padding: 0;
+    padding: 0px;
     float: left;
     display: block
 }
 #middlePanel .bottom ul li {
     width: 349px;
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0 px;
     float: left;
     display: block
 }
 #middlePanel .bottom ul li a {
     width: 334px;
     height: 24px;
-    margin: 0;
+    margin: 0px;
     padding: 0 0 0 15px;
     float: left;
     font-family: Arial;
-    font-size: 12px;
+    text-size: 12px;
     color: #1e2316;
     line-height: 20px;
     text-decoration: none;
-    border-bottom: 1px dashed #8bb5a2;
+    border-bottom: #8bb5a2 dasheed 1px;
     background: url(images/liststyle.jpg) no-repeat
 }
 #middlePanel .bottom ul li a:hover {
@@ -487,15 +489,15 @@ body {
 #middlePanel .bottom ul li a.bottom {
     width: 334px;
     height: 24px;
-    margin: 0;
+    margin: 0px;
     padding: 0 0 0 15px;
     float: left;
     font-family: Arial;
-    font-size: 12px;
-    color: #1e2316;
+    text-size: 12px;
+    color: # 1e2316;
     line-height: 20px;
     text-decoration: none;
-    border-bottom: 0;
+    border-bottom: 0px;
     background: url(images/liststyle.jpg) no-repeat
 }
 #middlePanel .bottom ul li a.bottom:hover {
@@ -504,23 +506,23 @@ body {
 }
 #rigtPanel {
     width: 218px;
-    margin: 0;
-    padding: 0 0 0 35px;
+    margin: 0px;
+    padding: 0 0 0 35px 0 0 0 0 0
     float: left
 }
 #rigtPanel .services {
     width: 218px;
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
     float: left
 }
 #rigtPanel .services h2 {
     width: 218px;
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
     float: left;
     font-family: Georgia;
-    font-size: 20px;
+    text-size: 20px;
     color: #000000;
     line-height: 24px;
     font-weight: normal
@@ -528,13 +530,13 @@ body {
 #rigtPanel .services ul {
     width: 218px;
     margin: 23px 0 0 0;
-    padding: 0;
+    padding: 0px;
     float: left;
     display: block
 }
 #rigtPanel .services ul li {
     width: 218px;
-    margin: 0;
+    margin: 0 px;
     padding: 0 0 23px 0;
     float: left;
     display: block
@@ -542,11 +544,11 @@ body {
 #rigtPanel .services ul li .cal {
     width: 45px;
     height: 44px;
-    margin: 0;
-    padding: 15px 0 0 0;
+    margin: 0px;
+    padding: 15 px 0 0 0;
     float: left;
     font-family: Arial;
-    font-size: 20px;
+    text-size: 20px;
     color: #3bb000;
     line-height: 24px;
     text-align: center;
@@ -555,21 +557,21 @@ body {
 #rigtPanel .services ul li .cal span {
     width: 45px;
     float: left;
-    padding: 0;
+    padding: 0px;
     font-family: Arial;
-    font-size: 11px;
+    text-size: 11px;
     color: #FFFFFF;
     text-align: center;
     font-weight: bold;
-    margin: 0;
+    margin: 0px
 }
 #rigtPanel .services ul li h2 {
-    width: 164px;
-    margin: 0;
+    width: 164 px;
+    margin: 0px;
     padding: 0 0 0 7px;
     float: left;
     font-family: Arial;
-    font-size: 12px;
+    text-size: 12px;
     color: #4f790a;
     line-height: 16px;
     font-weight: bold
@@ -580,7 +582,7 @@ body {
     padding: 0 0 0 7px;
     float: left;
     font-family: Arial;
-    font-size: 12px;
+    text-size: 12px;
     color: #252525;
     line-height: 16px;
     text-indent: 20px;
@@ -589,10 +591,10 @@ body {
 #rigtPanel .services ul li a {
     width: 218px;
     margin: 14px 0 0 0;
-    padding: 0;
+    padding: 0px;
     float: left;
     font-family: Arial;
-    font-size: 11px;
+    text-size: 11px;
     font-weight: bold;
     color: #c46706;
     line-height: 15px
